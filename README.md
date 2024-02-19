@@ -1,4 +1,4 @@
-Flash card program is aN application that will help you to learn a new laguage.
+Flash card program is an application that will help you to learn a new laguage.
 
 When the app started it will show you the french word and after 3 seconds it will show the english word.
 
